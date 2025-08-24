@@ -1,0 +1,3 @@
+py_clob_client>=0.23.0
+websocket-client>=1.8.0
+requests>=2.32.4
